@@ -1,6 +1,4 @@
 # Phonepe-Data-visualization-(2018-2022)
-Hi friends this is the app i created to analyse Phonepe pulse data which i get through Phonepe pulse github repo.Then I deployed this app in streamlit.Enjoy the code 😉
-![alt_text](https://media.licdn.com/dms/image/C5612AQGdCw8CZhcuEQ/article-cover_image-shrink_600_2000/0/1607024381761?e=2147483647&v=beta&t=tKCyrHlbMu3A5SX-dJAR799b6Kxu1x81QbTM904m1QQ)
 **Please install requirements.txt.**
 >[My app link](https://thiruvenkatam007-phonepe-data-visualization-2018---main2-iax51p.streamlit.app/)
 
@@ -32,9 +30,6 @@ Repeat the above process for all csv files to insert into your Mysql database
 
 Then after inserting all my files to Mysql database.
 I created a new file named main.py to create a app using streamlit.
-
-# My app preview
-![appimage](https://user-images.githubusercontent.com/113424127/220618749-2827a7a7-566c-40f5-b78d-8f155f068c57.png)
 
 # Geo-visualization of Transaction datas
 
