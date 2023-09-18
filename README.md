@@ -1,7 +1,5 @@
 # Phonepe-Data-visualization-(2018-2022)
 **Please install requirements.txt.**
->[My app link](https://thiruvenkatam007-phonepe-data-visualization-2018---main2-iax51p.streamlit.app/)
-
 ### First lets extracts datas from the github and convert it into csv files
 *This is the dataset i used in my streamlit web application to visualize datas*
 >[Phonepe pulse github repo](https://github.com/PhonePe/pulse#readme)
